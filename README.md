@@ -1,6 +1,6 @@
 # ProvisioningProfileCleaner
 
-Let's you remove existing provisioning profiles from ~Library/MobileDevice/Provisioning\ Profiles
+Lets you easily remove existing provisioning profiles from ~Library/MobileDevice/Provisioning\ Profiles
 
 The problem
 - All the files have random name, and is hard to identify them
