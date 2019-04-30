@@ -28,7 +28,7 @@ adjustedStr()
 tryDelete()
 {
     echo "\n"
-    read -p "Do yoy want to delete $1? (Y/N): " delete
+    read -p "Do you want to delete $1? (Y/N): " delete
 
     if [ "$delete" = "Y" ] || [ "$delete" = "y" ]; then
         rm $1
